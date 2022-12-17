@@ -10,6 +10,12 @@ class page2 extends StatefulWidget {
 class _page2State extends State<page2> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      appBar: AppBar
+        (
+        title: Text('hello'),
+      ),
+
+    );
   }
 }
