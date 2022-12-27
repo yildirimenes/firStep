@@ -1,13 +1,13 @@
-import 'package:firstep/GamesDesign/body_parts_games.dart';
-import 'package:firstep/GamesDesign/clothes_games.dart';
-import 'package:firstep/GamesDesign/fruits_vegetable_games.dart';
-import 'package:firstep/GamesDesign/important_days_games.dart';
-import 'package:firstep/GamesDesign/learn_english_games.dart';
-import 'package:firstep/GamesDesign/letter_games.dart';
-import 'package:firstep/GamesDesign/music_instrument_games.dart';
-import 'package:firstep/GamesDesign/numbers_games.dart';
-import 'package:firstep/GamesDesign/seasons_months_games.dart';
-import 'package:firstep/GamesDesign/traffic_rules_games.dart';
+import 'package:firstep/GamesDesign/BodyPartsGames/body_parts_games.dart';
+import 'package:firstep/GamesDesign/ClothesGames/clothes_games.dart';
+import 'package:firstep/GamesDesign/FruitsVegetablesGames/fruits_vegetable_games.dart';
+import 'package:firstep/GamesDesign/ImportantDayGames/important_days_games.dart';
+import 'package:firstep/GamesDesign/LearnEnglishGames/learn_english_games.dart';
+import 'package:firstep/GamesDesign/LetterGames/letter_games.dart';
+import 'package:firstep/GamesDesign/MusicInstrumentGames/music_instrument_games.dart';
+import 'package:firstep/GamesDesign/NumberGames/numbers_games.dart';
+import 'package:firstep/GamesDesign/SeasonsMonthsGames/seasons_months_games.dart';
+import 'package:firstep/GamesDesign/TrafficRulesGames/traffic_rules_games.dart';
 import 'package:flutter/material.dart';
 
 class GameScreen extends StatefulWidget {
